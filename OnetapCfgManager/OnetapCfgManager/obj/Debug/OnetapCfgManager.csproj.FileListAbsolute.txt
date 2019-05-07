@@ -1,0 +1,10 @@
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Debug\OnetapCfgManager.exe.config
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Debug\OnetapCfgManager.exe
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Debug\OnetapCfgManager.pdb
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.csprojAssemblyReference.cache
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.Form1.resources
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.Properties.Resources.resources
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.csproj.GenerateResource.cache
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.csproj.CoreCompileInputs.cache
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.exe
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Debug\OnetapCfgManager.pdb

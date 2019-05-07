@@ -1,0 +1,9 @@
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Release\OnetapCfgManager.exe.config
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Release\OnetapCfgManager.exe
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\bin\Release\OnetapCfgManager.pdb
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.OnetapCfgs.resources
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.Properties.Resources.resources
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.csproj.GenerateResource.cache
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.csproj.CoreCompileInputs.cache
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.exe
+C:\Users\Naruto\source\repos\OnetapCfgManager\OnetapCfgManager\obj\Release\OnetapCfgManager.pdb
